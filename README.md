@@ -1,5 +1,7 @@
 # Simple X-Bakery Sales Inventory Management App
 
+### Live site URL: https://sales-inventory-fe.netlify.app/
+
 ## Features:
 
 1. Authentication
